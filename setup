@@ -1,0 +1,3 @@
+1. install python
+2. pip install jupyter
+3. pip install -U scikit-learn
