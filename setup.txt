@@ -1,3 +1,5 @@
 1. install python
 2. pip install jupyter
 3. pip install -U scikit-learn
+4. pip install -U numpy
+5. pip install -U scipy
